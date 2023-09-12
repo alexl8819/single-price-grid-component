@@ -10,7 +10,6 @@ This is a solution to the [Single price grid component challenge on Frontend Men
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-- [Author](#author)
 
 ## Overview
 
@@ -23,11 +22,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./screenshot.png)
+![Desktop Screenshot](./screenshots/desktop.png)
 
 ### Links
 
-- Live Site URL: [Single Price Grid Component](https://slightlyfunctional.gitlab.io/single-price-grid-component/)
+- Live Site URL: [Single Price Grid Component](https://alexl8819.github.io/single-price-grid-component/)
 
 ## My process
 
@@ -38,8 +37,3 @@ Users should be able to:
 - Mobile-first workflow
 - [TailwindCSS](https://tailwindcss.com/) - CSS Framework
 - [Parcel](https://parceljs.org/) - Bundler
-
-## Author
-
-- Website - [slightlyfunctional.com](https://slightlyfunctional.com)
-- Frontend Mentor - [@slightlyfunctional](https://www.frontendmentor.io/profile/slightlyfunctional)
