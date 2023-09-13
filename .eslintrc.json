@@ -1,0 +1,24 @@
+{
+    "env": {
+        "browser": true,
+        "es2021": true
+    },
+    "extends": ["eslint:recommended", "plugin:tailwindcss/recommended"],
+    "overrides": [
+        {
+          "files": ["*.html"],
+          "parser": "@angular-eslint/template-parser"
+        }
+      ],
+    "parserOptions": {
+        "ecmaVersion": "latest"
+    },
+    "settings": {
+        "tailwindcss": {
+            "whitelist": ["attribution"]
+        }
+    },
+    "rules": {
+        
+    }
+}
